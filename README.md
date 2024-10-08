@@ -1,6 +1,5 @@
 ![banner git](https://github.com/user-attachments/assets/22850755-4c17-4fad-9460-099033e79ac2)
 <h1>✨ About me</h1>
-<h1 align="center">Hi 👋, I'm Ahmad Zulveron</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzulveron&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzulveron" /> </p>
